@@ -13,7 +13,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('https://data.nasa.gov/resource/gh4g-9sfh.json?$limit=50000')
+    fetch('https://data.nasa.gov/resource/gh4g-9sfh.json')
     .then(response => response.json())
     .then(data => {
       this.setState({
