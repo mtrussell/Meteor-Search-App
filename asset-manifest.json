@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Meteor-Search-App/static/css/main.34de6062.chunk.css",
-    "main.js": "/Meteor-Search-App/static/js/main.24d52f82.chunk.js",
-    "main.js.map": "/Meteor-Search-App/static/js/main.24d52f82.chunk.js.map",
-    "runtime~main.js": "/Meteor-Search-App/static/js/runtime~main.9d4d31fa.js",
-    "runtime~main.js.map": "/Meteor-Search-App/static/js/runtime~main.9d4d31fa.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/Meteor-Search-App/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.166444d8.chunk.js": "/Meteor-Search-App/static/js/2.166444d8.chunk.js",
-    "static/js/2.166444d8.chunk.js.map": "/Meteor-Search-App/static/js/2.166444d8.chunk.js.map",
-    "index.html": "/Meteor-Search-App/index.html",
-    "precache-manifest.b57815443964b4689c1f6b11d64e4fb4.js": "/Meteor-Search-App/precache-manifest.b57815443964b4689c1f6b11d64e4fb4.js",
-    "service-worker.js": "/Meteor-Search-App/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/Meteor-Search-App/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.34de6062.chunk.css.map": "/Meteor-Search-App/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/meteor-search-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/meteor-search-app/static/js/main.c363ffe4.chunk.js",
+    "main.js.map": "/meteor-search-app/static/js/main.c363ffe4.chunk.js.map",
+    "runtime~main.js": "/meteor-search-app/static/js/runtime~main.badcfd8d.js",
+    "runtime~main.js.map": "/meteor-search-app/static/js/runtime~main.badcfd8d.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/meteor-search-app/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.166444d8.chunk.js": "/meteor-search-app/static/js/2.166444d8.chunk.js",
+    "static/js/2.166444d8.chunk.js.map": "/meteor-search-app/static/js/2.166444d8.chunk.js.map",
+    "index.html": "/meteor-search-app/index.html",
+    "precache-manifest.9cbfd9008e8292fa551dbde4c737cd38.js": "/meteor-search-app/precache-manifest.9cbfd9008e8292fa551dbde4c737cd38.js",
+    "service-worker.js": "/meteor-search-app/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/meteor-search-app/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/meteor-search-app/static/css/main.34de6062.chunk.css.map"
   }
 }
