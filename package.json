@@ -1,7 +1,7 @@
 {
   "name": "search-app",
   "version": "0.1.0",
-  "homepage": "https://myusername.github.io/Meteor-Search-App",
+  "homepage": "https://myusername.github.io/meteor-search-app",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
